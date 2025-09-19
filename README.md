@@ -27,7 +27,7 @@ No necesitas herramientas adicionales para ejecutar este proyecto. Solo asegúra
 
 1. Clona el repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/Sodi0/challenge-amigo-secreto_esp-main.git
+    git clone https://github.com/NayeliRamirez/challenge-amigo-secreto_esp-main.git
     ```
 
 2. Navega al directorio del proyecto:
@@ -46,4 +46,5 @@ Este proyecto no requiere ninguna instalación adicional. Simplemente abre el ar
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - Para la estructura y diseño de la página.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Para los estilos visuales.
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Para la lógica de la aplicación (agregar nombres, realizar el sorteo, etc.).
+
 
